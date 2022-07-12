@@ -5,11 +5,11 @@ name = "pypi"
 
 [packages]
 django = "*"
-django-restframework = "*"
 pre-commit = "*"
 black = "*"
 flake8 = "*"
 isort = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
